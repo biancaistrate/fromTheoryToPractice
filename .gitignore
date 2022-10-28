@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/CheckoutApp/.vs
+/CheckoutApp/CheckoutApp/bin
+/CheckoutApp/CheckoutApp/obj
+/CheckoutApp/TestResults
+/CheckoutApp/UnitTests/bin
+/CheckoutApp/UnitTests/obj
+*.user
